@@ -24,10 +24,10 @@ DB=nome_do_db
 ```
 
 ## Arquivos Principais:
-result.py => amalgama do notebook em forma de script
-queries.py => todas as consultas executadas
-how_to.ipynb => notebook com o processo de resolução
-requirements.txt => dependencias para executar de forma isolada o result.py
+result.py => amalgama do notebook em forma de script<br>
+queries.py => todas as consultas executadas<br>
+how_to.ipynb => notebook com o processo de resolução<br>
+requirements.txt => dependencias para executar de forma isolada o result.py<br>
 
 ## Resultado
 
