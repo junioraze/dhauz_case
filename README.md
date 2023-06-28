@@ -34,19 +34,19 @@ requirements.txt => dependencias para executar de forma isolada o result.py
 * O Resultado final deve ser um print conforme abaixo:<br>
   <img src="/utils/resultado.png">
 
-Descritivo:
-PRIMEIRA PARTE:
-Questão 1 => V1 = ENDEREÇO DA CARTEIRA V2 = VOLUME
-Questão 2 => V1 = DIA DA CARTEIRA V2 = VOLUME
-Questão 3 => V1 = DIA DA SEMANA (3 = Quinta-Feira) DA CARTEIRA V2 = Realizadas
-Questão 4 => Nessa questão o resultado de fato é o inscrito no notebook, que são os valores duplicados e os status diferentes
-Questão 5 => V1 = ENDEREÇO DA CARTEIRA V2 = SALDO
-
-SEGUNDA PARTE:
-Questão 4 => V1 = SO DESCRITIVO V2 = VALOR DA MEDIA
-Questão 3 => V1 = ID DA TRANSACAO V2 = MAIOR TAXA PAGA
-Questão 2 => V1 = ENDEREÇO DA CARTEIRA V2 = MAIOR PAGAMENTO
-Questão 1 => V1 = ENDEREÇO DA CARTEIRA V2 = MAIOR PAGAMENTO
+Descritivo:<br>
+PRIMEIRA PARTE:<br>
+Questão 1 => V1 = ENDEREÇO DA CARTEIRA V2 = VOLUME<br>
+Questão 2 => V1 = DIA DA CARTEIRA V2 = VOLUME<br>
+Questão 3 => V1 = DIA DA SEMANA (3 = Quinta-Feira) DA CARTEIRA V2 = Realizadas<br>
+Questão 4 => Nessa questão o resultado de fato é o inscrito no notebook, que são os valores duplicados e os status diferentes<br>
+Questão 5 => V1 = ENDEREÇO DA CARTEIRA V2 = SALDO<br>
+<br>
+SEGUNDA PARTE:<br>
+Questão 4 => V1 = SO DESCRITIVO V2 = VALOR DA MEDIA<br>
+Questão 3 => V1 = ID DA TRANSACAO V2 = MAIOR TAXA PAGA<br>
+Questão 2 => V1 = ENDEREÇO DA CARTEIRA V2 = MAIOR PAGAMENTO<br>
+Questão 1 => V1 = ENDEREÇO DA CARTEIRA V2 = MAIOR PAGAMENTO<br>
 
 TERCEIRA PARTE: 
 
